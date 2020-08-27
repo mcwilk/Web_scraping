@@ -24,5 +24,5 @@ Project is: _finished_
 ## Contact
 maciej.wilk04@gmail.com
 
-## Contact
+## Comments
 The only purpose for which this script was created is training and expanding of programming knowledge.
